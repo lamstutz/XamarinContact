@@ -1,0 +1,53 @@
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Platform.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.xml
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.csprojResolveAssemblyReference.cache
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.ContactDetails.xaml.g.cs
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.AllContacts.xaml.g.cs
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\MyContacts.dll.config
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\MyContacts.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\ExifLib.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.Abstractions.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\SQLite-net.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\SQLitePCLRaw.core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Platform.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Forms.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Ioc.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Platform.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Serialization.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Plugin.Media.Abstractions.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\SQLite-net.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Core.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Forms.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Ioc.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Platform.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\XLabs.Serialization.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.ContactDetails.xaml.g.cs
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.AllContacts.xaml.g.cs
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\MyContacts.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\obj\Debug\MyContacts.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts\bin\Debug\MyContacts.dll.mdb

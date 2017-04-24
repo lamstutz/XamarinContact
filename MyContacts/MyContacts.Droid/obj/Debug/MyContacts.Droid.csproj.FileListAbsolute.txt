@@ -1,0 +1,187 @@
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.pdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\com.xamarin.MyContacts.Droid.apk
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\com.xamarin.MyContacts.Droid-Signed.apk
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\FormsViewGroup.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.pdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.csprojResolveAssemblyReference.cache
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.dll
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.pdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\bin\com.xamarin.MyContacts.Droid.apk
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\icon.png
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\star.png
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\R.cs.flag
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\uploadflags.txt
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\mscorlib.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.Core.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.Xml.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\MyContacts.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\MyContacts.Droid.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\YNOV Formation\13 - xam312-customizing-listview\Lab Materials\Part 05 Resources\Completed\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll.config
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\com.xamarin.MyContacts.Droid.apk
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\com.xamarin.MyContacts.Droid-Signed.apk
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\ExifLib.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\FormsViewGroup.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLite-net.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Core.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Forms.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Forms.Droid.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Ioc.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Platform.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Platform.Droid.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Serialization.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.dll.config
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\FormsViewGroup.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLite-net.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\SQLite-net.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Core.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Forms.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Forms.Droid.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Ioc.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Platform.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Platform.Droid.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\XLabs.Serialization.xml
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.csprojResolveAssemblyReference.cache
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.dll
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.pdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\bin\com.xamarin.MyContacts.Droid.apk
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\icon.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\profil.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\call.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\email.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\res\drawable\sms.png
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\R.cs.flag
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\uploadflags.txt
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\Mono.Android.Export.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\mscorlib.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Core.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.IO.Compression.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Runtime.Serialization.Xml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Xml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\MyContacts.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\MyContacts.Droid.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\obj\Debug\MyContacts.Droid.dll.mdb
+C:\VSWorkspace\theLastDeath\MyContacts\MyContacts.Droid\bin\Debug\MyContacts.Droid.dll.mdb

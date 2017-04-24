@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyContacts;assembly=MyContacts"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="MyContacts.AllContacts"
+             Title=" contacts"
+             Padding="5,0,5,5"
+             BackgroundColor="White">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:BirthdayConverter x:Key="birthdayCvt" />
+            <local:IsNotNullOrSpace x:Key="IsNotNullOrSpaceCvt" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems >
+        <ToolbarItem x:Name="editButton" Order="Primary"  Text="delete" Priority="0" Clicked="OnEdit"/>
+        <ToolbarItem x:Name="addButton" Order="Primary"  Text="add" Priority="1" Clicked="OnAdd"/>
+    </ContentPage.ToolbarItems>
+
+
+    <StackLayout>
+        <SearchBar Placeholder="Search" TextChanged="SearchBar_TextChanged" TextColor="#fe8e00"/>
+        <ListView x:Name="allContacts" 
+            CachingStrategy="RecycleElement"
+            ItemsSource="{Binding .}"
+            IsPullToRefreshEnabled="True"
+            Refreshing="OnRefreshing"
+            ItemTapped="OnItemTapped"
+            ItemSelected="OnItemSelected"
+            HasUnevenRows="True"
+            IsGroupingEnabled="True"
+            GroupDisplayBinding="{Binding Key}"
+            GroupShortNameBinding="{Binding Key}"
+            SeparatorColor="Gray"
+           
+            >
+
+            <ListView.GroupHeaderTemplate>
+            <DataTemplate>
+                    <TextCell Text="{Binding Key}"
+                    TextColor="Gray"/>
+            </DataTemplate>
+            </ListView.GroupHeaderTemplate>
+
+            <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell Height="80">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="75" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="50" />
+                            <ColumnDefinition Width="50" />
+                            <ColumnDefinition Width="50" />
+                        </Grid.ColumnDefinitions>
+
+                        <controls:CircleImage Source="{Binding HeadshotUrl}" Aspect="AspectFit" WidthRequest="60" HeightRequest="60" Grid.Column="0"/>
+
+                        <StackLayout Grid.Column="1" VerticalOptions="Center">
+                                <Label Text="{Binding FirstName}" FontSize="Medium" FontAttributes="Bold" TextColor="#757575"/>
+                                <Label Text="{Binding LastName}" FontSize="Medium" FontAttributes="Bold" TextColor="#757575"/>
+                                <Label Text="{Binding PhoneNumber}" FontSize="Small" TextColor="#757575" />
+                        </StackLayout>
+
+                            <controls:ImageButton IsVisible="{Binding PhoneNumber, Converter={StaticResource IsNotNullOrSpaceCvt} }" BackgroundColor="White" Source="call.png" Grid.Column="3" ImageWidthRequest="100" ImageHeightRequest="100" Clicked="OnCall"/>
+                            <controls:ImageButton IsVisible="{Binding PhoneNumber, Converter={StaticResource IsNotNullOrSpaceCvt} }" BackgroundColor="White" Source="sms.png" ImageWidthRequest="100" ImageHeightRequest="100" Grid.Column="4" Clicked="OnSms"/>
+                            <controls:ImageButton IsVisible="{Binding Email, Converter={StaticResource IsNotNullOrSpaceCvt} }" BackgroundColor="White" Source="email.png" ImageWidthRequest="100" ImageHeightRequest="100" Grid.Column="5" Clicked="OnMail"/>
+
+                    </Grid>
+                    <ViewCell.ContextActions>
+                        <MenuItem Text="Delete" Clicked="OnDelete" IsDestructive="true" />
+                    </ViewCell.ContextActions>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    </StackLayout>
+
+</ContentPage>

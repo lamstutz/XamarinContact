@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyContacts;assembly=MyContacts"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             Title=" Details"
+			 x:Class="MyContacts.ContactDetails"
+             BackgroundColor="White">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:GenderToIndexConverter x:Key="genderCvt" />
+            <Color x:Key="mainColor">#fe8e00</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+		<StackLayout Spacing="10">
+			<StackLayout.Padding>
+				<OnPlatform x:TypeArguments="Thickness" Android="5,0,5,5" />
+			</StackLayout.Padding>
+
+            <controls:CircleImage Aspect="AspectFit" HeightRequest="150" WidthRequest="150"
+                   Source="{Binding HeadshotUrl}" />
+            
+
+            <Label Text="Prenom" FontAttributes="Bold" TextColor="Gray"/>
+            <Entry Text="{Binding FirstName, Mode=TwoWay}" TextColor="Black"/>
+
+            <Label Text="Nom" FontAttributes="Bold" TextColor="Gray"/>
+            <Entry  Text="{Binding LastName, Mode=TwoWay}" TextColor="Black"/>
+
+            <Label Text="Telephone" FontAttributes="Bold" TextColor="Gray"/>
+            <Entry Text="{Binding PhoneNumber, Mode=TwoWay}" Keyboard="Telephone" TextColor="Black"/>
+
+            <Label Text="Email" FontAttributes="Bold" TextColor="Gray"/>
+            <Entry Text="{Binding Email, Mode=TwoWay}" Keyboard="Email" TextColor="Black"/>
+
+            <Label Text="Gender" FontAttributes="Bold" TextColor="Gray"/>
+            <Picker SelectedIndex="{Binding Gender, Mode=TwoWay, Converter={StaticResource genderCvt}}" TextColor="Black"> 
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Label Text="Birthday" FontAttributes="Bold" TextColor="Gray"/>
+            <DatePicker Date="{Binding Dob, Mode=TwoWay}" TextColor="Black"/>
+
+            <Label Text="Favoris" FontAttributes="Bold" TextColor="Gray"/>
+            <Switch IsToggled="{Binding IsFavorite, Mode=TwoWay}" />
+
+            <Button Text="Valider" Clicked="save" />
+            
+        </StackLayout>
+	</ScrollView>
+</ContentPage>
